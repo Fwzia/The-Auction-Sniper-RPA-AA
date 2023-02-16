@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE config[
+   <!ENTITY RootFolder "C:\Users\moony\Desktop\Challenges\The Auction Sniper\">
+   <!-- <!ENTITY URL "https://developer.automationanywhere.com/challenges/automationanywherelabs-auctionsniper.html?_fsi=rFwDZeNs&_ga=2.119203597.522976506.1676105592-2129105083.1671224854&_gl=1*aqofq5*_ga*MjEyOTEwNTA4My4xNjcxMjI0ODU0*_ga_DG1BTLENXK*MTY3NjE4MDQ2NC41OC4xLjE2NzYxODA2MzEuNjAuMC4w&_fsi=rFwDZeNs"> -->
+]>
+
+<config>
+
+<!-- LOCATIONS n NAMES-->
+
+<FolderRoot>&RootFolder;</FolderRoot>
+<ProcessName>Purchase Order Updates - Supply Chain</ProcessName>
+<ProcessPurpose>The process purpose is correctly assign each PO to the appropriate agent</ProcessPurpose>
+<FolderErrors>&RootFolder;Errors</FolderErrors>
+<FolderLogs>&RootFolder;Logs</FolderLogs>
+<!-- <clockURL>&URL;</clockURL> -->
+</config>
